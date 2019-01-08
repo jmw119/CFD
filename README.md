@@ -1,2 +1,2 @@
 # CFD
-CFD Python Scripts
+Collection of Python code written by Jonathan Wai to practice programming CFD algorithms
